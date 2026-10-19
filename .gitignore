@@ -1,0 +1,9 @@
+test-images/
+node_modules/
+.DS_Store
+.impeccable/review/
+
+# Local design and agent notes
+DESIGN.md
+PRODUCT.md
+.impeccable/
